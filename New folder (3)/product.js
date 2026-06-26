@@ -1,4 +1,4 @@
-const products = [
+const ProductDatabase = [
   {
     id: 1,
     sku: "ADC001",
